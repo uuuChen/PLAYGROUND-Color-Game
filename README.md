@@ -1,4 +1,4 @@
-## [GAME-LINK](https://uuuchen.github.io/PLAYGROUND-ColorGame/)
+# [GAME-LINK](https://uuuchen.github.io/PLAYGROUND-ColorGame/)
 ## Description
 > ### This is a simple game that allows you to guess which color module corresponds to based on RGB. Enjoy!
 ![](https://i.imgur.com/o9gKhN2.png)
